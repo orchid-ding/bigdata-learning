@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+dependencies=dws_user_retention
+command=sh /home/hadoop/bin/ads_user_retention.sh ${do_date}

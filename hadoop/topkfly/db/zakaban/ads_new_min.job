@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+dependencies=ads_uv_log
+command=sh /home/hadoop/bin/ads_new_mid.sh ${do_date}

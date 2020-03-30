@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+dependencies=dws_uv_log
+command=sh /home/hadoop/bin/ads_uv_log.sh ${do_date}

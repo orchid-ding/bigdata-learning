@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+dependencies=dwd_load_event_data
+command=sh /home/hadoop/bin/dws_uv_log.sh ${do_date}

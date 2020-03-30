@@ -1,0 +1,6 @@
+target/
+.idea/
+.class
+/movicesrecommer/doc/
+/movicesrecommer/spark-warehouse/
+/hadoop/spark-scala/data/

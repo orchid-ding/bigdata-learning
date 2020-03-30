@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+dependencies=dwd_load_base_event
+command=sh /home/hadoop/bin/dwd_load_event-data.sh ${do_date}

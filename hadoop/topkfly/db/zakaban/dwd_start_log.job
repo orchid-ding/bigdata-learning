@@ -1,0 +1,4 @@
+type=command
+do_date={dt}
+dependencies=ods_load_data
+command=sh /home/hadoop/bin/dwd_start-log.sh ${do_date}

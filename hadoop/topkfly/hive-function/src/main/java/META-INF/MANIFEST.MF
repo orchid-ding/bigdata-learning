@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: logback-core-1.0.7.jar fastjson-1.2.51.jar slf4j-api-1.6.6.j
+ ar xz-1.0.jar asm-3.2.jar jta-1.1.jar jpam-1.1.jar ant-1.9.1.jar oro-2.
+ 0.8.jar ST4-4.0.4.jar gson-2.2.4.jar jline-2.12.jar junit-4.11.jar mail
+ -1.4.1.jar regexp-1.3.jar antlr-2.7.7.jar jsp-api-2.1.jar opencsv-2.3.j
+ ar asm-tree-3.1.jar guava-14.0.1.jar janino-2.7.6.jar jsr305-3.0.0.jar 
+ log4j-1.2.16.jar velocity-1.5.jar ivy-2.0.0-rc2.jar jdo-api-3.0.1.jar j
+ oda-time-1.6.jar paranamer-2.3.jar activation-1.1.jar commons-el-1.0.ja
+ r commons-io-2.4.jar httpcore-4.2.5.jar libfb303-0.9.3.jar stax-api-1.0
+ .1.jar asm-commons-3.1.jar commons-cli-1.2.jar derby-10.11.1.1.jar jcom
+ mander-1.32.jar libthrift-0.9.3.jar servlet-api-2.5.jar super-csv-2.2.0
+ .jar commons-dbcp-1.4.jar commons-lang-2.6.jar commons-math-2.1.jar com
+ mons-vfs2-2.0.jar groovy-all-2.4.4.jar httpclient-4.2.5.jar jackson-xc-
+ 1.9.2.jar tempus-fugit-1.1.jar antlr-runtime-3.4.jar commons-codec-1.4.
+ jar commons-lang3-3.1.jar hamcrest-core-1.1.jar logredactor-1.0.3.jar m
+ aven-scm-api-1.4.jar metrics-jvm-3.0.2.jar ant-launcher-1.9.1.jar commo
+ ns-pool-1.5.4.jar jackson-core-2.2.2.jar jersey-server-1.14.jar metrics
+ -core-3.0.2.jar metrics-json-3.0.2.jar plexus-utils-1.5.6.jar accumulo-
+ core-1.6.0.jar accumulo-fate-1.6.0.jar jackson-jaxrs-1.9.2.jar jamon-ru
+ ntime-2.3.1.jar jersey-servlet-1.14.jar snappy-java-1.0.4.1.jar accumul
+ o-start-1.6.0.jar accumulo-trace-1.6.0.jar avro-1.7.6-cdh5.14.2.jar bon
+ ecp-0.8.0.RELEASE.jar commons-digester-1.8.jar curator-client-2.6.0.jar
+  high-scale-lib-1.1.1.jar stringtemplate-3.2.1.jar commons-logging-1.1.
+ 3.jar curator-recipes-2.6.0.jar jasper-runtime-5.5.23.jar commons-compi
+ ler-2.7.6.jar commons-compress-1.4.1.jar jackson-databind-2.2.2.jar jas
+ per-compiler-5.5.23.jar commons-beanutils-1.9.2.jar curator-framework-2
+ .6.0.jar datanucleus-core-3.2.10.jar datanucleus-rdbms-3.2.9.jar common
+ s-httpclient-3.0.1.jar hive-ant-1.1.0-cdh5.14.2.jar hive-cli-1.1.0-cdh5
+ .14.2.jar hive-hwi-1.1.0-cdh5.14.2.jar commons-collections-3.2.2.jar co
+ mmons-configuration-1.6.jar datanucleus-api-jdo-3.2.6.jar hive-exec-1.1
+ .0-cdh5.14.2.jar hive-jdbc-1.1.0-cdh5.14.2.jar jackson-annotations-2.2.
+ 2.jar jetty-all-7.6.0.v20120127.jar zookeeper-3.4.5-cdh5.14.2.jar apach
+ e-log4j-extras-1.2.17.jar eigenbase-properties-1.1.4.jar hive-serde-1.1
+ .0-cdh5.14.2.jar hive-shims-1.1.0-cdh5.14.2.jar geronimo-jta_1.1_spec-1
+ .1.1.jar hive-common-1.1.0-cdh5.14.2.jar mysql-connector-java-5.1.38.ja
+ r commons-beanutils-core-1.8.0.jar findbugs-annotations-1.3.9-1.jar ger
+ onimo-jaspic_1.0_spec-1.0.jar hbase-common-1.2.0-cdh5.14.2.jar hive-bee
+ line-1.1.0-cdh5.14.2.jar hive-contrib-1.1.0-cdh5.14.2.jar hive-service-
+ 1.1.0-cdh5.14.2.jar htrace-core-3.2.0-incubating.jar calcite-core-1.0.0
+ -incubating.jar maven-scm-provider-svnexe-1.4.jar hbase-protocol-1.2.0-
+ cdh5.14.2.jar hive-metastore-1.1.0-cdh5.14.2.jar hive-testutils-1.1.0-c
+ dh5.14.2.jar calcite-linq4j-1.0.0-incubating.jar hive-shims-0.23-1.1.0-
+ cdh5.14.2.jar calcite-avatica-1.0.0-incubating.jar jetty-all-server-7.6
+ .0.v20120127.jar hbase-annotations-1.2.0-cdh5.14.2.jar hive-shims-commo
+ n-1.1.0-cdh5.14.2.jar geronimo-annotation_1.0_spec-1.1.1.jar hive-hbase
+ -handler-1.1.0-cdh5.14.2.jar maven-scm-provider-svn-commons-1.4.jar hiv
+ e-classification-1.1.0-cdh5.14.2.jar hive-jdbc-1.1.0-cdh5.14.2-standalo
+ ne.jar hive-shims-scheduler-1.1.0-cdh5.14.2.jar hive-accumulo-handler-1
+ .1.0-cdh5.14.2.jar parquet-hadoop-bundle-1.5.0-cdh5.14.2.jar pentaho-ag
+ gdesigner-algorithm-5.1.5-jhyde.jar logback-classic-1.0.7.jar
+

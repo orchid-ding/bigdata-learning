@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+dependencies=ads_new_min
+command=sh /home/hadoop/bin/dws_user_retention.sh ${do_date}
