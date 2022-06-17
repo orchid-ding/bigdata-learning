@@ -197,7 +197,7 @@
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
-                <version>1.2.44</version>
+                <version>1.2.83</version>
             </dependency>
 
             <!--es依赖-->
@@ -295,7 +295,7 @@
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
-                <version>1.2.40</version>
+                <version>1.2.83</version>
             </dependency>
             <dependency>
                 <groupId>mysql</groupId>
